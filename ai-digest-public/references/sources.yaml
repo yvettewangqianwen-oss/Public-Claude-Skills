@@ -1,0 +1,30 @@
+# YouTube channels to monitor
+# Add your own channels — just the handle (from youtube.com/@handle)
+youtube_channels:
+  - name: "Lenny's Podcast"
+    handle: "lennyspodcast"
+  - name: "Sequoia Capital"
+    handle: "sequoiacapital"
+  - name: "a16z"
+    handle: "a16z"
+  - name: "Latent Space"
+    handle: "LatentSpaceTV"
+  - name: "Every"
+    handle: "everyinc"
+  - name: "Y Combinator"
+    handle: "ycombinator"
+  - name: "Greg Isenberg"
+    handle: "GregIsenberg"
+  - name: "Google DeepMind"
+    handle: "Google_DeepMind"
+
+# X/Twitter accounts to monitor
+x_accounts:
+  - handle: "karpathy"
+    name: "Andrej Karpathy"
+  - handle: "swyx"
+    name: "Swyx"
+  - handle: "gregisenberg"
+    name: "Greg Isenberg"
+  - handle: "emollick"
+    name: "Ethan Mollick"
