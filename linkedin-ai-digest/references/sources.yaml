@@ -1,0 +1,17 @@
+# LinkedIn AI companies to monitor.
+# `slug` is the part after linkedin.com/company/ — visit the page to confirm.
+linkedin_companies:
+  - name: "OpenAI"
+    slug: "openai"
+  - name: "Anthropic"
+    slug: "anthropic"
+  - name: "Google DeepMind"
+    slug: "googledeepmind"
+  - name: "Mistral AI"
+    slug: "mistralai"
+  - name: "Hugging Face"
+    slug: "huggingface"
+  - name: "Perplexity"
+    slug: "perplexity-ai"
+  - name: "Cohere"
+    slug: "cohere-ai"
